@@ -26,7 +26,3 @@ REFERENCES:-
 “Free Data Sets & Dataset Samples.” Maven Analytics, www.mavenanalytics.io/data-playground?page=8&pageSize=5. Accessed 1 Nov. 2023.
 
 Wikipedia Contributors. “US Airways.” Wikipedia, Wikimedia Foundation, 17 Nov. 2019, https://en.wikipedia.org/wiki/US_Airways. Accessed 1 Dec. 2023.
-
-
-Manual Code used to find Boston's numeric code for October
-
